@@ -4,3 +4,5 @@
 •	To identify the relationship between shed management practices and access to safe milk for consumption in Zone 6 
 git checkout 
 # Comparing shed practice
+
+# open index.html in your browser 
